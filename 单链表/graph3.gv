@@ -1,0 +1,4 @@
+digraph pic1 {
+rankdir = LR
+head -> 2 -> 1
+}

@@ -1,0 +1,4 @@
+digraph{
+rankdir = LR
+head -> 6 -> 5 -> 4
+}
